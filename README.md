@@ -1,4 +1,14 @@
+
+
 # Engineering Challenge
+
+## Solutions 
+
+Please refer to rich comments on each of the following files:
+
+- `src/problem1.clj`
+- `src/problem2.clj`
+- `test/problem3.clj`
 
 ## Getting started
 
